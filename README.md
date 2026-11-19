@@ -490,11 +490,11 @@ For industrial projects, PEB building requirements, steel fabrication, lighting 
 - https://pebstructures.pk/
 - https://galvanization.pk/
 
-**Email:** info@ssons.com.pk  
-**Additional Email:** info@galvanization.pk
+**Email:** mujeeb.alam@ssons.com.pk  
+**Additional Email:** marketing@ssons.com.pk
 
 **Telephone / WhatsApp:** +92 370 8062166  
-**Additional Contact:** +92 310 0065511
+**Additional Contact:** +92 348 7439727
 
 For project inquiries, customers can share their BOQ, technical specifications, drawings, project location, required quantities and delivery schedule to discuss suitable engineering and manufacturing solutions.
 
