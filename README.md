@@ -518,3 +518,52 @@ Pre Engineered Buildings Pakistan, PEB Manufacturer Pakistan, PEB Structures Pak
 **Country:** Pakistan  
 **Primary Location:** Lahore, Punjab  
 **Website Network:** SSons.com.pk | PEBStructures.pk | Galvanization.pk
+
+---
+
+# Engineering Resources & Technical Articles
+
+Explore our engineering services, industrial manufacturing capabilities and technical resources.
+
+### Pre-Engineered Buildings
+Learn about industrial sheds, PEB warehouses, factory buildings and steel construction.
+
+[Read: PEB Buildings in Pakistan](PEB-Buildings-Pakistan.md)
+
+### Structural Steel Fabrication
+Learn about structural steel manufacturing, welding, cutting, assembly and installation.
+
+[Read: Structural Steel Fabrication](Steel-Fabrication.md)
+
+### Hot-Dip Galvanizing
+Explore zinc coating, corrosion protection, galvanizing processes and industrial applications.
+
+[Read: Hot-Dip Galvanizing in Pakistan](Hot-Dip-Galvanizing.md)
+
+### Street Lighting Pole Manufacturing
+Explore octagonal, polygonal, tubular, single-arm, double-arm and high-mast lighting poles.
+
+[Read: Street Lighting Poles](Street-Lighting-Poles.md)
+
+### Solar Mounting Structures
+Learn about ground-mounted solar structures, rooftop mounting systems and galvanized steel supports.
+
+[Read: Solar Mounting Structures](Solar-Mounting-Structures.md)
+
+### Telecom Tower Fabrication
+Explore telecommunications towers, steel tower components, fabrication and corrosion protection.
+
+[Read: Telecom Tower Fabrication](Telecom-Tower-Fabrication.md)
+
+### Industrial Engineering Projects
+Explore industrial engineering, fabrication, construction and infrastructure project experience.
+
+[Read: Industrial Projects](Industrial-Projects.md)
+
+---
+
+**Official Websites:**
+
+- [M. Siddique Sons Engineering](https://ssons.com.pk/)
+- [PEB Structures Pakistan](https://pebstructures.pk/)
+- [Hot-Dip Galvanizing](https://galvanization.pk/)
